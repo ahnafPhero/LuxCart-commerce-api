@@ -423,4 +423,214 @@
   "manufacturer": "Apple Inc.",
   "releaseDate": "December 2020"
 }
-
+{
+  "id": 21,
+  "name": "Apple Mac Studio",
+  "description": "The Mac Studio is a powerful desktop computer designed for professional creative workflows, featuring the M2 Pro chip.",
+  "price": 2999.99,
+  "image": "mac_studio.jpg",
+  "colors": ["Silver"],
+  "storageOptions": [
+    {"capacity": "512GB", "price": 2999.99, "inStock": true},
+    {"capacity": "1TB", "price": 3499.99, "inStock": true},
+    {"capacity": "2TB", "price": 3999.99, "inStock": false}
+  ],
+  "features": [
+    "M2 Pro chip with up to 20-core CPU and 32-core GPU",
+    "Up to 64GB unified memory",
+    "Multiple Thunderbolt 4 and USB-A ports",
+    "Support for Pro Display XDR at 6K resolution",
+    "macOS Monterey with enhanced performance and security",
+    "Compact and customizable aluminum design"
+  ],
+  "specifications": {
+    "processor": "M2 Pro chip with up to 20-core CPU and 32-core GPU",
+    "memory": "Up to 64GB unified memory",
+    "storage": "512GB / 1TB / 2TB",
+    "ports": "Multiple Thunderbolt 4 and USB-A ports"
+  },
+  "ratings": {
+    "average": 4.9,
+    "reviews": 90
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "June 2022"
+}
+{
+  "id": 22,
+  "name": "Apple AirPods Pro (2nd Generation)",
+  "description": "The AirPods Pro (2nd Generation) deliver an immersive audio experience with enhanced active noise cancellation and spatial audio.",
+  "price": 279.99,
+  "image": "airpods_pro_2nd_gen.jpg",
+  "colors": ["White"],
+  "features": [
+    "Active Noise Cancellation with Transparency mode",
+    "Spatial audio for a 3D listening experience",
+    "Adaptive EQ for customized sound",
+    "Customizable fit with three sizes of silicone tips",
+    "H1 chip for seamless connectivity and Siri integration",
+    "Sweat and water-resistant design",
+    "Up to 4.5 hours of listening time on a single charge"
+  ],
+  "specifications": {
+    "design": "In-ear",
+    "sensors": "Dual optical sensors, Motion-detecting accelerometer, Force sensor",
+    "battery": "Up to 4.5 hours of listening time on a single charge"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 100
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "September 2023"
+}
+{
+  "id": 23,
+  "name": "Apple iPad Pro 11-inch (6th Generation)",
+  "description": "The iPad Pro 11-inch (6th Generation) is a versatile tablet with a Liquid Retina XDR display and the powerful M2 Pro chip.",
+  "price": 899.99,
+  "image": "ipad_pro_11_6th_gen.jpg",
+  "colors": ["Silver", "Space Gray"],
+  "storageOptions": [
+    {"capacity": "128GB", "price": 899.99, "inStock": true},
+    {"capacity": "256GB", "price": 1099.99, "inStock": true},
+    {"capacity": "512GB", "price": 1299.99, "inStock": false}
+  ],
+  "features": [
+    "11-inch Liquid Retina XDR display with ProMotion technology",
+    "M2 Pro chip with 8-core CPU and 16-core GPU",
+    "12MP Wide and 10MP Ultra-Wide rear cameras",
+    "TrueDepth camera for Face ID facial recognition",
+    "Thunderbolt and USB 4 support",
+    "Up to 16GB RAM for smooth multitasking",
+    "Magic Keyboard and Apple Pencil compatibility"
+  ],
+  "specifications": {
+    "display": "11 inches, Liquid Retina XDR display with ProMotion technology",
+    "processor": "M2 Pro chip with 8-core CPU and 16-core GPU",
+    "storage": "128GB / 256GB / 512GB",
+    "camera": "12MP Wide and 10MP Ultra-Wide rear cameras",
+    "frontCamera": "TrueDepth camera for Face ID",
+    "ports": "Thunderbolt, USB 4"
+  },
+  "ratings": {
+    "average": 4.9,
+    "reviews": 120
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "May 2023"
+}
+{
+  "id": 24,
+  "name": "Apple Watch SE (2nd Generation)",
+  "description": "The Apple Watch SE (2nd Generation) offers essential smartwatch features with an affordable price and a sleek design.",
+  "price": 279.99,
+  "image": "apple_watch_se_2nd_gen.jpg",
+  "colors": ["Silver", "Space Gray", "Gold"],
+  "sizeOptions": ["40mm", "44mm"],
+  "features": [
+    "Retina display with Force Touch",
+    "S6 chip for fast performance",
+    "Fall detection and Emergency SOS",
+    "Fitness and health tracking, including heart rate monitoring",
+    "Water-resistant design",
+    "Family Setup for managing multiple Apple Watches"
+  ],
+  "specifications": {
+    "display": "Retina display with Force Touch",
+    "processor": "S6 chip",
+    "dimensions": "40mm or 44mm",
+    "waterResistance": "Water-resistant up to 50 meters"
+  },
+  "ratings": {
+    "average": 4.7,
+    "reviews": 80
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "September 2022"
+}
+{
+  "id": 25,
+  "name": "Apple MacBook Air (2023)",
+  "description": "The MacBook Air (2023) is an ultra-thin and lightweight laptop featuring the M3 chip for efficient performance and portability.",
+  "price": 1299.99,
+  "image": "macbook_air_2023.jpg",
+  "colors": ["Gold", "Silver", "Space Gray"],
+  "storageOptions": [
+    {"capacity": "256GB", "price": 1299.99, "inStock": true},
+    {"capacity": "512GB", "price": 1499.99, "inStock": true},
+    {"capacity": "1TB", "price": 1799.99, "inStock": false}
+  ],
+  "features": [
+    "13.3-inch Retina display with True Tone",
+    "M3 chip with 8-core CPU and 7-core GPU",
+    "Magic Keyboard with scissor mechanism",
+    "Up to 16GB unified memory",
+    "Thunderbolt 3 (USB-C) ports",
+    "Up to 15 hours of web browsing battery life",
+    "macOS Monterey with enhanced features"
+  ],
+  "specifications": {
+    "display": "13.3 inches, Retina display with True Tone",
+    "processor": "M3 chip with 8-core CPU and 7-core GPU",
+    "storage": "256GB / 512GB / 1TB",
+    "ports": "Thunderbolt 3 (USB-C) ports"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 90
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "February 2023"
+}
+{
+  "id": 26,
+  "name": "Apple HomePod (2nd Generation)",
+  "description": "The HomePod (2nd Generation) is a high-fidelity smart speaker with spatial audio and Siri integration for a seamless audio experience.",
+  "price": 299.99,
+  "image": "homepod_2nd_gen.jpg",
+  "colors": ["Space Gray", "White"],
+  "features": [
+    "High-fidelity audio with deep bass and clear vocals",
+    "Spatial audio for an immersive sound experience",
+    "Siri voice control for hands-free operation",
+    "HomeKit integration for smart home control",
+    "Intercom feature for communication between HomePods",
+    "Privacy-focused design with on-device processing"
+  ],
+  "specifications": {
+    "audioTechnology": "High-excursion woofer, Array of seven horn-loaded tweeters, Six-microphone array",
+    "voiceControl": "Siri with on-device processing"
+  },
+  "ratings": {
+    "average": 4.7,
+    "reviews": 75
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "October 2022"
+}
+{
+  "id": 27,
+  "name": "Apple Pencil (3rd Generation)",
+  "description": "The Apple Pencil (3rd Generation) is a precision stylus designed for drawing, note-taking, and creative tasks on compatible iPad models.",
+  "price": 129.99,
+  "image": "apple_pencil_3rd_gen.jpg",
+  "features": [
+    "Double-tap gesture for changing tools",
+    "Pixel-perfect precision and low latency",
+    "Magnetic attachment and wireless charging",
+    "Scribble feature for converting handwriting to text",
+    "Designed for iPad Air (4th generation), iPad Pro 12.9-inch (3rd generation) and later, iPad Pro 11-inch (1st generation) and later",
+    "Available in Silver"
+  ],
+  "specifications": {
+    "compatibility": "iPad Air (4th generation), iPad Pro 12.9-inch (3rd generation) and later, iPad Pro 11-inch (1st generation) and later",
+    "features": "Double-tap gesture, Magnetic attachment, Wireless charging"
+  },
+  "ratings": {
+    "average": 4.9,
+    "reviews": 60
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "March 2023"
+}
