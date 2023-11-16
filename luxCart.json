@@ -1,0 +1,426 @@
+{
+  "id": 1,
+  "name": "Apple iPhone 13 Pro",
+  "description": "The Apple iPhone 13 Pro is the latest flagship smartphone from Apple, featuring cutting-edge technology and powerful performance.",
+  "price": 1099.99,
+  "image": "iphone13pro.jpg",
+  "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+  "storageOptions": [
+    {"capacity": "128GB", "price": 1099.99, "inStock": true},
+    {"capacity": "256GB", "price": 1199.99, "inStock": true},
+    {"capacity": "512GB", "price": 1399.99, "inStock": false}
+  ],
+  "features": [
+    "6.1-inch Super Retina XDR display with HDR10 and Dolby Vision",
+    "ProMotion technology with 120Hz refresh rate",
+    "Triple 12MP camera system with Ultra-Wide, Wide, and Telephoto lenses",
+    "Night mode, Deep Fusion, and Smart HDR 3 for stunning photos",
+    "A15 Bionic chip with 6-core CPU and 4-core GPU, delivering fast and efficient performance",
+    "Neural Engine for advanced machine learning tasks",
+    "iOS 15 with App Library, widgets, and App Clips",
+    "Ceramic Shield front cover for enhanced durability",
+    "5G capable for high-speed connectivity",
+    "Water and dust resistance (IP68)"
+  ],
+  "specifications": {
+    "display": "6.1 inches, Super Retina XDR, 2532 x 1170 pixels",
+    "processor": "A15 Bionic chip with 6-core CPU and 4-core GPU",
+    "storage": "128GB / 256GB / 512GB",
+    "camera": "Triple 12MP system with Ultra-Wide, Wide, and Telephoto lenses",
+    "frontCamera": "12MP TrueDepth camera",
+    "faceID": true,
+    "battery": "Built-in rechargeable lithium-ion battery",
+    "operatingSystem": "iOS 15"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 120
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "September 2021"
+},
+
+{
+  "id": 2,
+  "name": "Apple MacBook Air",
+  "description": "The MacBook Air is a sleek and lightweight laptop, perfect for everyday computing tasks.",
+  "price": 999.99,
+  "image": "macbook_air.jpg",
+  "colors": ["Gold", "Silver", "Space Gray"],
+  "storageOptions": [
+    {"capacity": "256GB", "price": 999.99, "inStock": true},
+    {"capacity": "512GB", "price": 1299.99, "inStock": true}
+  ],
+  "features": [
+    "13.3-inch Retina display with True Tone",
+    "Apple M1 chip with 8-core CPU and 7-core or 8-core GPU",
+    "Fanless design for silent operation",
+    "Magic Keyboard and Force Touch trackpad",
+    "Up to 16GB unified memory",
+    "Fast SSD storage",
+    "macOS Big Sur with a sleek and intuitive interface",
+    "Up to 18 hours of battery life",
+    "Thunderbolt 3 (USB-C) ports"
+  ],
+  "specifications": {
+    "display": "13.3 inches, Retina display with True Tone",
+    "processor": "Apple M1 chip with 8-core CPU and 7-core or 8-core GPU",
+    "storage": "256GB / 512GB SSD",
+    "memory": "Up to 16GB unified memory",
+    "battery": "Built-in 49.9-watt-hour lithium-polymer battery",
+    "ports": "Two Thunderbolt 3 (USB-C) ports"
+  },
+  "ratings": {
+    "average": 4.9,
+    "reviews": 95
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "November 2020"
+},
+{
+  "id": "M3",
+  "name": "Apple iPad Mini (3rd Generation)",
+  "description": "The iPad Mini is a compact tablet with a powerful A12 Bionic chip, perfect for on-the-go productivity and entertainment.",
+  "price": 499.99,
+  "image": "ipad_mini.jpg",
+  "colors": ["Space Gray", "Silver", "Gold"],
+  "storageOptions": [
+    {"capacity": "64GB", "price": 499.99, "inStock": true},
+    {"capacity": "256GB", "price": 649.99, "inStock": false}
+  ],
+  "features": [
+    "7.9-inch Retina display with True Tone",
+    "A12 Bionic chip with Neural Engine",
+    "Touch ID fingerprint sensor",
+    "8MP back camera and 7MP FaceTime HD front camera",
+    "Stereo speakers with wide stereo audio",
+    "Wi-Fi and Gigabit-class LTE",
+    "Up to 10 hours of battery life",
+    "iPadOS with support for Apple Pencil and Smart Keyboard"
+  ],
+  "specifications": {
+    "display": "7.9 inches, Retina display with True Tone",
+    "processor": "A12 Bionic chip with Neural Engine",
+    "storage": "64GB / 256GB",
+    "camera": "8MP back camera and 7MP FaceTime HD front camera",
+    "battery": "Built-in 19.1-watt-hour rechargeable lithium-polymer battery",
+    "connectivity": "Wi-Fi (802.11ac), Gigabit-class LTE (cellular models)"
+  },
+  "ratings": {
+    "average": 4.7,
+    "reviews": 80
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "March 2021"
+}
+,
+{
+  "id": 4,
+  "name": "Apple AirPods Pro",
+  "description": "The AirPods Pro deliver immersive sound with active noise cancellation and a customizable fit for all-day comfort.",
+  "price": 249.99,
+  "image": "airpods_pro.jpg",
+  "colors": ["White"],
+  "features": [
+    "Active Noise Cancellation for immersive sound",
+    "Transparency mode for hearing and connecting with the world around you",
+    "Customizable fit with three sizes of soft, tapered silicone tips",
+    "Adaptive EQ automatically tunes music to the shape of your ear",
+    "Sweat and water-resistant",
+    "H1 chip for easy setup and seamless switching between devices",
+    "Dual beamforming microphones for clear calls",
+    "Up to 4.5 hours of listening time on one charge (up to 24 hours with charging case)"
+  ],
+  "specifications": {
+    "design": "In-ear",
+    "sensors": "Dual beamforming microphones, Dual optical sensors, Motion-detecting accelerometer, Force sensor",
+    "battery": "More than 24 hours of listening time with multiple additional charges from the charging case"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 110
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "October 2019"
+},
+{
+  "id": 5,
+  "name": "Apple Watch Series 7",
+  "description": "The Apple Watch Series 7 is the latest generation smartwatch with a larger and more durable display.",
+  "price": 399.99,
+  "image": "apple_watch_series7.jpg",
+  "colors": ["Midnight", "Starlight", "Green", "Blue", "Product(RED)", "Graphite"],
+  "sizeOptions": ["41mm", "45mm"],
+  "features": [
+    "Always-on Retina display with 20% more screen area",
+    "50% thicker front crystal for improved durability",
+    "Advanced health sensors, including blood oxygen and ECG",
+    "Fast charging, 80% charge in 45 minutes",
+    "Water-resistant up to 50 meters",
+    "watchOS 8 with new fitness and mindfulness features",
+    "Interchangeable bands for personalized style"
+  ],
+  "specifications": {
+    "display": "Always-on Retina display",
+    "dimensions": "41mm or 45mm",
+    "sensors": "Blood oxygen sensor, ECG app, Electrical and optical heart sensors",
+    "waterResistance": "Water-resistant up to 50 meters",
+    "battery": "Built-in rechargeable lithium-ion battery"
+  },
+  "ratings": {
+    "average": 4.9,
+    "reviews": 65
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "September 2022"
+}
+,{
+{
+  "id": 6,
+  "name": "Apple MacBook Pro 16-inch",
+  "description": "The MacBook Pro 16-inch is a powerful laptop designed for professionals, offering enhanced performance and a stunning display.",
+  "price": 2399.99,
+  "image": "macbook_pro_16inch.jpg",
+  "colors": ["Silver", "Space Gray"],
+  "storageOptions": [
+    {"capacity": "512GB", "price": 2399.99, "inStock": true},
+    {"capacity": "1TB", "price": 2799.99, "inStock": true},
+    {"capacity": "2TB", "price": 3299.99, "inStock": false}
+  ],
+  "features": [
+    "16-inch Retina display with True Tone",
+    "Powerful Intel Core i9 processor",
+    "AMD Radeon Pro graphics",
+    "Up to 64GB of DDR4 memory",
+    "Up to 8TB SSD storage",
+    "Magic Keyboard with scissor mechanism",
+    "Six-speaker sound system with force-canceling woofers",
+    "Four Thunderbolt 3 (USB-C) ports"
+  ],
+  "specifications": {
+    "display": "16 inches, Retina display with True Tone",
+    "processor": "Up to Intel Core i9",
+    "graphics": "Up to AMD Radeon Pro",
+    "storage": "512GB / 1TB / 2TB SSD",
+    "memory": "Up to 64GB DDR4",
+    "ports": "Four Thunderbolt 3 (USB-C) ports"
+  },
+  "ratings": {
+    "average": 4.7,
+    "reviews": 85
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "November 2019"
+}
+
+}
+{
+  "id": 7,
+  "name": "Apple HomePod Mini",
+  "description": "The HomePod Mini is a compact smart speaker that delivers impressive audio and integrates seamlessly with Apple's ecosystem.",
+  "price": 99.99,
+  "image": "homepod_mini.jpg",
+  "colors": ["White", "Space Gray"],
+  "features": [
+    "Room-filling, 360-degree sound",
+    "Siri voice control for hands-free operation",
+    "HomeKit integration for smart home control",
+    "Intercom feature for communication between HomePods",
+    "Personalized listening recommendations",
+    "Privacy-focused design with on-device processing",
+    "Compatibility with Apple Music and other streaming services"
+  ],
+  "specifications": {
+    "dimensions": "3.3 inches tall",
+    "audioTechnology": "Full-range driver and dual passive radiators",
+    "voiceControl": "Siri with on-device processing"
+  },
+  "ratings": {
+    "average": 4.6,
+    "reviews": 75
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "November 2020"
+}
+,
+{
+  "id": 8,
+  "name": "Apple Magic Mouse 2",
+  "description": "The Magic Mouse 2 is a sleek and wireless mouse with a multitouch surface for easy navigation and gestures.",
+  "price": 79.99,
+  "image": "magic_mouse2.jpg",
+  "colors": ["Silver"],
+  "features": [
+    "Wireless connectivity via Bluetooth",
+    "Multi-Touch surface for gestures",
+    "Rechargeable battery with Lightning port",
+    "Optimized foot design for smooth movement",
+    "Seamless integration with macOS"
+  ],
+  "specifications": {
+    "connectivity": "Bluetooth",
+    "battery": "Built-in rechargeable lithium-ion battery",
+    "port": "Lightning port for charging"
+  },
+  "ratings": {
+    "average": 4.5,
+    "reviews": 60
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "October 2015"
+}
+,
+{
+  "id": 9,
+  "name": "Apple AirTag",
+  "description": "The AirTag is a small and lightweight accessory that helps you keep track of your belongings using the Find My app.",
+  "price": 29.99,
+  "image": "airtag.jpg",
+  "colors": ["White"],
+  "features": [
+    "Precision finding with Ultra-Wideband technology",
+    "Water and dust resistance (IP67)",
+    "Customizable engraving",
+    "Replaceable CR2032 battery",
+    "Integration with the Find My app",
+    "Privacy-focused design"
+  ],
+  "specifications": {
+    "dimensions": "1.26 inches in diameter, 0.31 inches thick",
+    "technology": "Ultra-Wideband technology",
+    "waterResistance": "IP67"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 50
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "April 2021"
+}
+,
+{
+  "id": 10,
+  "name": "Apple iPad Pro 12.9-inch (5th Generation)",
+  "description": "The iPad Pro 12.9-inch is a powerful tablet with a stunning Liquid Retina XDR display and the M1 chip for high-performance computing.",
+  "price": 1099.99,
+  "image": "ipad_pro_12.9.jpg",
+  "colors": ["Silver", "Space Gray"],
+  "storageOptions": [
+    {"capacity": "128GB", "price": 1099.99, "inStock": true},
+    {"capacity": "256GB", "price": 1299.99, "inStock": true},
+    {"capacity": "512GB", "price": 1499.99, "inStock": false}
+  ],
+  "features": [
+    "12.9-inch Liquid Retina XDR display with ProMotion technology",
+    "Apple M1 chip with 8-core CPU and 8-core GPU",
+    "12MP Wide and 10MP Ultra-Wide rear cameras",
+    "TrueDepth camera for Face ID facial recognition",
+    "Thunderbolt and USB 4 support",
+    "Up to 16GB RAM for smooth multitasking",
+    "Magic Keyboard and Apple Pencil compatibility"
+  ],
+  "specifications": {
+    "display": "12.9 inches, Liquid Retina XDR display with ProMotion technology",
+    "processor": "Apple M1 chip with 8-core CPU and 8-core GPU",
+    "storage": "128GB / 256GB / 512GB",
+    "camera": "12MP Wide and 10MP Ultra-Wide rear cameras",
+    "frontCamera": "TrueDepth camera for Face ID",
+    "ports": "Thunderbolt, USB 4"
+  },
+  "ratings": {
+    "average": 4.9,
+    "reviews": 110
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "May 2021"
+},
+{
+  "id": 11,
+  "name": "Apple iMac 24-inch",
+  "description": "The iMac 24-inch is a sleek and colorful all-in-one desktop computer powered by the M1 chip for efficient performance and vibrant visuals.",
+  "price": 1299.99,
+  "image": "imac_24inch.jpg",
+  "colors": ["Blue", "Green", "Pink", "Silver", "Yellow", "Orange", "Purple"],
+  "storageOptions": [
+    {"capacity": "256GB", "price": 1299.99, "inStock": true},
+    {"capacity": "512GB", "price": 1499.99, "inStock": true},
+    {"capacity": "1TB", "price": 1799.99, "inStock": false}
+  ],
+  "features": [
+    "24-inch 4.5K Retina display with P3 wide color and True Tone",
+    "Apple M1 chip with 8-core CPU and 8-core GPU",
+    "Immersive audio with six-speaker sound system and spatial audio",
+    "Two Thunderbolt / USB 4 ports and two USB 3 ports",
+    "Magic Keyboard with Touch ID and Magic Mouse or Magic Trackpad",
+    "macOS Big Sur with a redesigned interface"
+  ],
+  "specifications": {
+    "display": "24 inches, 4.5K Retina display with P3 wide color and True Tone",
+    "processor": "Apple M1 chip with 8-core CPU and 8-core GPU",
+    "storage": "256GB / 512GB / 1TB",
+    "ports": "Two Thunderbolt / USB 4 ports, Two USB 3 ports"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 95
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "April 2021"
+}
+{
+  "id": 12,
+  "name": "Apple Watch SE",
+  "description": "The Apple Watch SE offers essential features of a smartwatch with a more affordable price, making it a great entry into the Apple Watch ecosystem.",
+  "price": 279.99,
+  "image": "apple_watch_se.jpg",
+  "colors": ["Silver", "Space Gray", "Gold"],
+  "sizeOptions": ["40mm", "44mm"],
+  "features": [
+    "Retina display with Force Touch",
+    "S5 chip for fast performance",
+    "Fall detection and Emergency SOS",
+    "Fitness and health tracking, including heart rate monitoring",
+    "Water-resistant design",
+    "Family Setup for managing multiple Apple Watches"
+  ],
+  "specifications": {
+    "display": "Retina display with Force Touch",
+    "processor": "S5 chip",
+    "dimensions": "40mm or 44mm",
+    "waterResistance": "Water-resistant up to 50 meters"
+  },
+  "ratings": {
+    "average": 4,   
+   "reviews": 95
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "April 2021"
+}{
+  "id": 20,
+  "name": "Apple AirPods Max",
+  "description": "The AirPods Max deliver high-fidelity audio with adaptive EQ and spatial audio, wrapped in a comfortable over-ear design.",
+  "price": 549.99,
+  "image": "airpods_max.jpg",
+  "colors": ["Space Gray", "Silver", "Sky Blue", "Green", "Pink"],
+  "features": [
+    "High-fidelity audio with custom-built drivers",
+    "Adaptive EQ for rich and immersive sound",
+    "Active Noise Cancellation with Transparency mode",
+    "Spatial audio for a theater-like listening experience",
+    "Comfortable over-ear design with memory foam ear cushions",
+    "Digital Crown for easy control of playback and volume",
+    "Up to 20 hours of battery life on a single charge"
+  ],
+  "specifications": {
+    "design": "Over-ear",
+    "audioTechnology": "Custom-built drivers, Active Noise Cancellation, Spatial audio",
+    "battery": "Up to 20 hours of battery life on a single charge"
+  },
+  "ratings": {
+    "average": 4.8,
+    "reviews": 75
+  },
+  "manufacturer": "Apple Inc.",
+  "releaseDate": "December 2020"
+}
+
